@@ -609,6 +609,6 @@ http://www.huaxiaozhuan.com/
 
 《Unix 环境高级编程第三版》笔记：https://github.com/huaxz1986/APUE_notes
 
-### Contributing
+**Contributing**
 
 If you find a bug, create a GitHub issue, or even better, submit a pull request. Similarly, if you have questions, simply post them as GitHub issues.  
