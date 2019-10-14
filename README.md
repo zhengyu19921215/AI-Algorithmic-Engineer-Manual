@@ -28,7 +28,7 @@
 
 ####     七、其它
 
-###   3.数值计算基础
+###   [3.数值计算基础](http://www.huaxiaozhuan.com/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/chapters/3_numerical_computaion.html)
 
 ####     一、数值稳定性
 
@@ -42,7 +42,7 @@
 
 ####     六、约束优化
 
-###   4.蒙特卡洛方法与 MCMC 采样
+###   [4.蒙特卡洛方法与 MCMC 采样](http://www.huaxiaozhuan.com/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/chapters/4_monte_carlo.html)
 
 ####     一、蒙特卡罗洛方法
 
@@ -52,7 +52,7 @@
 
 ## 统计学习
 
-###   0.机器学习简介
+###   [0.机器学习简介](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/0_introduction.html)
 
 ####     一、基本概念
 
@@ -60,7 +60,7 @@
 
 ####     三、机器学习三要素
 
-###   1.线性代数基础
+###   [1.线性代数基础](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/1_linear.html)
 
 ####     一、线性回归
 
@@ -72,7 +72,7 @@
 
 ####     五、感知机
 
-###   2.支持向量机
+###   [2.支持向量机](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/2_svm.html)
 
 ####     一、线性可分支持向量机
 
