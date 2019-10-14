@@ -598,7 +598,8 @@
 **书籍:**
 
 http://www.huaxiaozhuan.com/
-
+《算法导论》的C++实现"代码：https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms
+《Unix 环境高级编程第三版》笔记：https://github.com/huaxz1986/APUE_notes
 
 ### Contributing
 
