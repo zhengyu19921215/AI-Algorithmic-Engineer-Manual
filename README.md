@@ -1,4 +1,4 @@
-# AI-Algorithmic-Engineer-Manual（）
+# AI-Algorithmic-Engineer-Manual（AI算法工程师手册）
 
 ## 数学基础
 
