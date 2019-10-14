@@ -12,7 +12,7 @@
 
 ####     四、特殊函数
 
-###   2.概率论基础
+###[2.概率论基础](http://www.huaxiaozhuan.com/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/chapters/2_probability.html)
 
 ####     一、概率与分布
 
