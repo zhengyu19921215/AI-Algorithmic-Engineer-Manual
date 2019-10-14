@@ -591,14 +591,22 @@
 ####    十一、 移动窗口函数
 ####    十二、 数据加载和保存
 
+
+
 **作者**
 
 作者华校专，曾任阿里巴巴资深算法工程师、智易科技首席算法研究员，现任腾讯高级研究员，《Python 大战机器学习》的作者。
 
+**说明**
+
+笔记内容仅供个人学习使用，非本人同意不得应用于商业领域。
+
 **书籍:**
 
 http://www.huaxiaozhuan.com/
+
 《算法导论》的C++实现"代码：https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms
+
 《Unix 环境高级编程第三版》笔记：https://github.com/huaxz1986/APUE_notes
 
 ### Contributing
