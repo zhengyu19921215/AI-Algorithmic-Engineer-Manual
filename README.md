@@ -392,7 +392,7 @@
 
 ####     九、小型网络
 
-### (7.循环神经网络)[http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/6_RNN.html]
+### [7.循环神经网络](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/6_RNN.html)
 
 ####     一、RNN计算图
 
