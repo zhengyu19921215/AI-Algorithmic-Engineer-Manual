@@ -2,7 +2,7 @@
 
 ## 数学基础
 
-###   1.线性代数基础
+###   [1.线性代数基础](http://www.huaxiaozhuan.com/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/chapters/1_algebra.html)
 
 ####     一、基础知识
 
