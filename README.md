@@ -88,7 +88,7 @@
 
 ####     七、其他讨论
 
-### 3.朴素贝叶斯
+###  [3.朴素贝叶斯](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/3_bayesian.html)
 
 ####     一、贝叶斯定理
 
@@ -98,7 +98,7 @@
 
 ####     四、其他讨论
 
-### 6.决策树
+### [4.决策树](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/4_decision_tree.html)
 
 ####     一、原理
 
@@ -114,13 +114,13 @@
 
 ####     七、多变量决策树
 
-### 5.knn
+### [5.knn](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/5_knn.html)
 
 ####     一、k近邻算法
 
 ####     二、kd树
 
-### 6.集成学习
+### [6.集成学习](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/6_ensemble_learning.html)
 
 ####     一、集成学习误差
 
@@ -132,7 +132,7 @@
 
 ####     五、多样性分析
 
-### 7.梯度学习树
+### [7.梯度学习树](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/7_GBT.html)
 
 ####     一、提升树
 
@@ -140,7 +140,7 @@
 
 ####     三、LightGBM
 
-### 8.特征工程
+### [8.特征工程](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/8_feature_selection.html)
 
 ####     一、缺省值处理
 
@@ -156,7 +156,7 @@
 
 ####     类别不平衡问题
 
-### 9.模型评估
+### [9.模型评估](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/9_model_selection.html)
 
 ####     一、泛化能力
 
@@ -176,7 +176,7 @@
 
 ####     九、传统机器学的挑战
 
-### 10.降维
+### [10.降维](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/10_PCA.html)
 
 ####     一、维度灾难
 
@@ -196,7 +196,7 @@
 
 ####     九、LargeVis
 
-### 11.聚类
+### [11.聚类](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/11_cluster.html)
 
 ####     一、性能度量
 
@@ -208,7 +208,7 @@
 
 ####     五、谱聚类
 
-### 12.半监督学习
+### [12.半监督学习](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/12_semi_supervised.html)
 
 ####     一、半监督学习
 
@@ -224,7 +224,7 @@
 
 ####     七、总结
 
-### 13.EM算法
+### [13.EM算法](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/13_EM.html)
 
 ####     一、示例
 
@@ -236,7 +236,7 @@
 
 ####     五、EM算法的推广
 
-### 14.最大熵算法
+### [14.最大熵算法](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/14_maxent.html)
 
 ####     一、最大熵模型MEM
 
@@ -244,7 +244,7 @@
 
 ####     三、最大熵的学习
 
-### 15.隐马尔可夫算法
+### [15.隐马尔可夫算法](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/15_HMM.html)
 
 ####     一、隐马尔可夫模型HMM
 
@@ -252,7 +252,7 @@
 
 ####     三、最大熵隐马尔可夫模型MEMM
 
-### 16.概率图与条件随机场
+### [16.概率图与条件随机场](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/16_CRF.html)
 
 ####     一、概率图模型
 
@@ -262,13 +262,13 @@
 
 ####     四、条件随机场CRF
 
-### 17.边际概率推断
+### [17.边际概率推断](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/17_prob_infer.html)
 
 ####     一、精准推断
 
 ####     二、近似推断
 
-### 18.主题模型
+### [18.主题模型](http://www.huaxiaozhuan.com/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/chapters/18_topic_model.html)
 
 ####     一、Unigram Model
 
@@ -284,13 +284,13 @@
 
 ## 深度学习
 
-### 0.深度学习简介
+### [0.深度学习简介](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/0_dl_introduction.html)
 
 ####     一、介绍
 
 ####     二、历史
 
-### 1.深度前馈神经网络
+### [1.深度前馈神经网络](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/1_deep_forward.html)
 
 ####     一、基础
 
@@ -304,7 +304,7 @@
 
 ####     六、历史小记
 
-### 1.反向传播算法
+### [2.反向传播算法](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/2_bp.html)
 
 ####     一、链式法则
 
@@ -314,7 +314,7 @@
 
 ####     四、自动微分
 
-### 3.正则化
+### [3.正则化](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/3_regularization.html)
 
 ####     一、参数范数正则化
 
@@ -336,7 +336,7 @@
 
 ####     十、其它相关
 
-### 4.最优化基础
+### [4.最优化基础](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/4_optimization.html)
 
 ####     一、代价函数
 
@@ -360,7 +360,7 @@
 
 ####     十一、OnLine Learing
 
-### 5.卷积神经网络
+### [5.卷积神经网络](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/5_CNN.html)
 
 ####     一、卷积运算
 
@@ -372,7 +372,7 @@
 
 ####     五、历史和现状
 
-### 6.CNN之图像分类
+### [6.CNN之图像分类](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/5_CNN_1_classfication.html)
 
 ####     一、LeNet
 
@@ -392,7 +392,7 @@
 
 ####     九、小型网络
 
-### 7.循环神经网络
+### (7.循环神经网络)[http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/6_RNN.html]
 
 ####     一、RNN计算图
 
@@ -402,7 +402,7 @@
 
 ####     四、常见RNN变种
 
-### 8.Transformer
+### [8.Transformer](http://www.huaxiaozhuan.com/深度学习/chapters/7_Transformer.html)
 
 ####     一、Transformer
 
@@ -422,7 +422,7 @@
 
 ####     九、BERT 扩展
 
-### 9.词向量
+### [9.词向量](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/8_word_representation.html)
 
 ####     一、向量空间模型 VSM
 
@@ -438,7 +438,7 @@
 
 ####     七、变种
 
-### 10.传统CTR预估模型
+### [10.传统CTR预估模型](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/9_practical.html)
 
 ####     一、LR 模型
 ####     二、POLY2 模型
@@ -448,7 +448,7 @@
 ####     六、FTRL模型
 ####     七、LS-PLM 模型
 
-### 10.工程实践指导原则
+### [11.工程实践指导原则](http://www.huaxiaozhuan.com/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/chapters/9_practical.html)
 ####    一、性能度量
 ####    二、默认的基准模型
 ####    三、决定是否收集更多数据
@@ -461,20 +461,20 @@
 
 ## 工具
 ## CRF
-###   CRF++
+###   [CRF++](http://www.huaxiaozhuan.com/工具/CRF/chapters/crfpp.html)
 ####    一、安装
 ####    二、使用
 ####    三、Python接口
 ####    四、常见错误
 ## lightgbm
-### lightgbm使用指南
+### [lightgbm使用指南](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/lightgbm/chapters/lightgbm_usage.html)
 ####    一、安装
 ####    二、调参
 ####    三、进阶
 ####    四、API
 ####    五、Docker
 ## xgboost
-### xgboost使用指南
+### [xgboost使用指南](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/xgboost/chapters/xgboost_usage.html)
 ####    一、安装
 ####    二、调参
 ####    三、外存计算
@@ -483,12 +483,12 @@
 ####    六、 DART booster
 ####    七、Python API
 ## scikit-learn
-### 1.预处理
+### [1.预处理](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scikit-learn/chapters/1.preprocess.html)
 ####    一、特征处理
 ####    二、特征选择
 ####    三、字典学习
 ####    四、PipeLine
-### 2.降维
+### [2.降维](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scikit-learn/chapters/2.dimension_reduce.html)
 ####    一、PCA
 ####    二、MDS
 ####    三、Isomap
@@ -496,7 +496,7 @@
 ####    五、FA
 ####    六、FastICA
 ####    七、t-SNE
-### 3.监督学习模型
+### [3.监督学习模型](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scikit-learn/chapters/3.supervised_model.html)
 ####    一、线性模型
 ####    二、支持向量机
 ####    三、贝叶斯模型
@@ -505,12 +505,12 @@
 ####    六 、AdaBoost
 ####    七、梯度提升树
 ####    八、Random Forest
-### 4.模型评估
+### [4.模型评估](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scikit-learn/chapters/4.model_select.html)
 ####    一、数据集切分
 ####    二、性能度量
 ####    三、验证曲线 && 学习曲线
 ####    四、超参数优化
-### 5.聚类模型
+### [5.聚类模型](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scikit-learn/chapters/5.cluster.html)
 ####    一、KMeans
 ####    二、DBSCAN
 ####    三、MeanShift
@@ -518,18 +518,18 @@
 ####    五、BIRCH
 ####    六、GaussianMixture
 ####    七、SpectralClustering
-### 6.半监督学习模型
+### [6.半监督学习模型](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scikit-learn/chapters/6.semi_supervised.html)
 ####    一、标签传播算法
-### 7.隐马尔可夫模型
+### [7.隐马尔可夫模型](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scikit-learn/chapters/7.HMM.html)
 ####    一、Hmmlearn
 ####    二、seqlearn
 ## spark
-### 1.基础概念
+### [1.基础概念](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/spark/chapters/01_basic.html)
 ####    一、核心概念
 ####    二、安装和使用
 ####    三、 pyspark shell
 ####    四、独立应用
-### 2.rdd使用
+### [2.rdd使用](http://www.huaxiaozhuan.com/工具/spark/chapters/02_rdd.html)
 ####    一、概述
 ####    二、创建 RDD
 ####    三、转换操作
@@ -538,7 +538,7 @@
 ####    六、持久化
 ####    七、分区
 ####    八、混洗
-### 3.dataframe使用
+### [3.dataframe使用](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/spark/chapters/03_dataframe.html)
 ####    一、概述
 ####    二、SparkSession
 ####    三、DataFrame 创建
@@ -548,17 +548,17 @@
 ####    七、Column
 ####    八、GroupedData
 ####    九、functions
-### 4.累加器和广播变量
+### [4.累加器和广播变量](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/spark/chapters/04_acc_broadcast.html)
 ####    一、累加器
 ####    二、广播变量
 ## numpy
-### numpy 使用指南
+### [numpy 使用指南](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/numpy/chapters/numpy.html)
 ####    一、 ndarray
 ####    二、 ufunc 函数
 ####    三、 函数库
 ####    四、数组的存储和加载
 ## scipy
-### scipy 使用指南
+### [scipy 使用指南](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/scipy/chapters/scipy.html)
 ####    一、 常数和特殊函数
 ####    二、 拟合与优化
 ####    三、线性代数
@@ -566,7 +566,7 @@
 ####    五、数值积分
 ####    六、 稀疏矩阵
 ## matplotlib
-### matplotlib 使用指南
+### [matplotlib 使用指南](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/matplotlib/chapters/matplotlib.html)
 ####    一、matplotlib配置
 ####    二、 matplotlib Artist
 ####    三、基本概念
@@ -577,7 +577,7 @@
 ####    八、 3D 绘图
 ####    九、技巧
 ## pandas
-### pandas 使用指南
+### [pandas 使用指南](http://www.huaxiaozhuan.com/%E5%B7%A5%E5%85%B7/pandas/chapters/pandas.html)
 ####    一、基本数据结构
 ####    二、 内部数据结构
 ####    三、 下标存取
